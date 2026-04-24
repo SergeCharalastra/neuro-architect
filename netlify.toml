@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/presentation"
+  to = "/codex-cyberpunk-presentation.html"
+  status = 200
